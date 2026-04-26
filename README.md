@@ -296,9 +296,8 @@ Jan-25: "Employee count increased, special menu ₹80"
 
 ## 📞 Contact
 
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
